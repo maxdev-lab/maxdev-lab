@@ -1,6 +1,4 @@
-<!-- README.md for GitHub profile -->
-
-<h1 align="center">Hi there 👋, I'm Hyunsoo Yoon</h1>
+<h1 align="center">개발자 윤현수 입니다 ✨</h1>
 <p align="center">
   백엔드 개발과 AI 학습을 즐기는 개발자입니다.<br/>
   클린한 코드, 구조적인 설계, 문제 해결을 좋아합니다.
