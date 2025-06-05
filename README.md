@@ -28,7 +28,10 @@
 ### 💻 Projects
 - 🎯 **지역 영수증 복권 앱**  
   : 소상공인 매출 증대를 위한 리워드 시스템, Spring Boot + JWT + Kakao API  
-  👉 [프로젝트 저장소 바로가기](https://github.com/your-username/your-project)
+  👉 [프로젝트 저장소 바로가기](https://github.com/Team-Reframe)
+  - 역할: 백엔드 개발 / API 설계 / 인증 모듈 개발
+  - 기술 스택: Spring Boot, MySQL, JWT, Docker
+  - 주요 기능: JWT 로그인 / Kakao 지도 연동 / 회원 시스템 구현
 
 
 ---
@@ -42,5 +45,5 @@
 ---
 
 ### 📬 Contact
-- Email : your.email@example.com  
-- Blog : [Velog](https://velog.io/@yourname)
+- Email : zenon789@naver.com  
+- Blog : [Velog](https://velog.io/@maxdev-lab)
