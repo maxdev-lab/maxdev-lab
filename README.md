@@ -9,6 +9,8 @@
 ### 🚀 Tech Stack
 <div align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
@@ -32,15 +34,6 @@
   - 역할: 백엔드 개발 / API 설계 / 인증 모듈 개발
   - 기술 스택: Spring Boot, MySQL, JWT, Docker
   - 주요 기능: JWT 로그인 / Kakao 지도 연동 / 회원 시스템 구현
-
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maxdev-lab&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdev-lab&layout=compact&theme=radical" />
-</div>
 
 ---
 
